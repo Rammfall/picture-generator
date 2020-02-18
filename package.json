@@ -1,0 +1,24 @@
+{
+  "name": "picture-generator",
+  "version": "0.0.1",
+  "description": "Generator picture-snipets with sizes and webp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rammfall/picture-generator.git"
+  },
+  "keywords": [
+    "snippet",
+    "picture",
+    "webp"
+  ],
+  "author": "rammfall (Bohdan Onatskyi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rammfall/picture-generator/issues"
+  },
+  "homepage": "https://github.com/Rammfall/picture-generator#readme"
+}
